@@ -67,6 +67,23 @@ typedef enum
     ALL_DONE
 } my_state_t;
 
+/*  //Code for Forward
+ *
+ *  Forward 1
+ *
+ *  //Code for Forward 2
+ *
+ *  //Code for CodeLeft  
+ *
+ *  //Code for CodeRight
+ *
+ *  //Code for BumpLeft
+ *
+ *  //Code for BumpRight
+ *
+ *
+ /
+
 my_state_t state = START;
 
 int main(void)
